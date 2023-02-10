@@ -1,6 +1,6 @@
 <h2 align="center"> Welcome to Sara P. Cruz Marquez Page! <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="50"></h2>
 <h3 align="center"><a href="mailto:5012@holbertonstudents.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='./Resume.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
+<a href='./RESUMESARA.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 <p align="center"><em>Full-time Student at <a href="http://www.unb.br">Holberton School</a></br>Soon to be hire!<img src="https://media.tenor.com/tlslhwLM_SEAAAAC/cyber-digital.gif" width="30"> 
 </em></p>
 
