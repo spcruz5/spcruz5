@@ -1,15 +1,21 @@
+<h2 align="center"> Welcome to Sara Cruz Marquez Page! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F11391612-hello-and-welcome-GIF-for-newsletter&psig=AOvVaw0G3STO0K_TP5CTKMzwAx9J&ust=1676133426617000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLittOSxi_0CFQAAAAAdAAAAABAg)" width="50"></h2>
+<h3 align="center"><a href="mailto:4985@holbertonstudents.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a href='./Resume.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
+<p align="center"><em>Full-time Student at <a href="http://www.unb.br">Holberton School</a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw3EBlmgHPIDpyK16pnq4cUs&ust=1676133645941000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDyj8myi_0CFQAAAAAdAAAAABAD" width="30"></br>Soon to be hire!<img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp)" width="30"> 
+</em></p>
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/BigheartedGrimFlea-size_restricted.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Sara, a full-time full-stack student 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Airbnb Clone  
+- 🔭 I’m currently working on the Final Project  
   
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning FireBase  
   
 
 - ❓ Ask me about anything related to C  
