@@ -7,7 +7,26 @@
 <div align="center">
 <img src="https://static.wixstatic.com/media/32ba91_0397fe53c1d743e791d6d0b3a13cf0f2~mv2.gif" align="center" style="width: 100%" />
 </div>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/spcruz5" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/spcruz5" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/spcruz5" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
+
+<br/>  
+
 
 ### <div align="center">I'm Sara, a full-time full-stack student 👨‍💻 </div>  
   
